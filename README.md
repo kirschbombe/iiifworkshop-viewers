@@ -60,7 +60,7 @@ In this workshop, participants will learn basic IIIF concepts and technologies, 
 * Open the `index.html` file.
     * Take a look at the different sections. What info are we presenting? How does this correlate to what you see on in the live Mirador view?
     * We have one manifest available for viewing right now. How might you add the manifest that you created with the Bodleian editor?
-* Let's play with some configurations: https://github.com/ProjectMirador/mirador/wiki/Configuration-Guides
+* Let's play with some configurations: https://github.com/ProjectMirador/mirador-2-wiki/wiki/Configuration-Guides
     * How would you configure kabuki to load on open?
     * ...set the default view for kabuki to the Book Viewer?
     * ...configure Mirador to open with two object windows?
